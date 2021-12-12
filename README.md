@@ -75,7 +75,7 @@ echo $recursive_menu->createListTree();
 |`selectedAClass`|`selected`|If `selected` key of array is true then  `selected` class name added to the &lt;a> tag. You can change it new class name.|
 |`firstUlClass`|`main_menu`|Class name of first &lt;ul>|
 |`parentUlClass`|`second_ul`|Class name for all Parent &lt;ul> after First main &lt;ul>|
-|`parentLiClass`||Class name for parent  <li>|
+|`parentLiClass`||Class name for parent  &lt;li>|
 |`parentLiAttr`||Attributes for parent  &lt;li>|
 |`parentAClass`||Class name for parent  &lt;a>|
 |`parentAAttr`||Attributes for parent  &lt;a>|
