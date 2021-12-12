@@ -1,5 +1,5 @@
-# PHP Recursive hiraricial list Menu
-With this class you can build the html list tree from flat array in php. For example:
+# PHP Recursive hieraricial list Menu
+With this class you can build the html hieraricial list tree from flat array in php. For example:
 
 * Home page
 * Courses »
