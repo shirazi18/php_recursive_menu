@@ -71,15 +71,15 @@ echo $recursive_menu->createListTree();
 |`parentKey`|`parent_id`|If `parent_id` key of array are different then you mus set it to `parentKey`|
 |`urlKey`|`url`|If `url` key of array are different then you mus set it to `urlKey`|
 |`selectedKey`|`selected`|If `selected` key of array are different then you mus set it to `selectedKey`|
-|`selectedLiClass`|`selected`|If `selected` key of array is true then  `selected` class name added to the <li> tag. You can change it new class name.|
-|`selectedAClass`|`selected`|If `selected` key of array is true then  `selected` class name added to the <a> tag. You can change it new class name.|
-|`firstUlClass`|`main_menu`|Class name of first <ul>|
-|`parentUlClass`|`second_ul`|Class name for all Parent <ul> after First main <ul>|
+|`selectedLiClass`|`selected`|If `selected` key of array is true then  `selected` class name added to the &lt;li> tag. You can change it new class name.|
+|`selectedAClass`|`selected`|If `selected` key of array is true then  `selected` class name added to the &lt;a> tag. You can change it new class name.|
+|`firstUlClass`|`main_menu`|Class name of first &lt;ul>|
+|`parentUlClass`|`second_ul`|Class name for all Parent &lt;ul> after First main &lt;ul>|
 |`parentLiClass`||Class name for parent  <li>|
-|`parentLiAttr`||Attributes for parent  <li>|
-|`parentAClass`||Class name for parent  <a>|
-|`parentAAttr`||Attributes for parent  <a>|
-|`dropdownSymbol`|`>`|Symbol for dropdowns  <a>.|
+|`parentLiAttr`||Attributes for parent  &lt;li>|
+|`parentAClass`||Class name for parent  &lt;a>|
+|`parentAAttr`||Attributes for parent  &lt;a>|
+|`dropdownSymbol`|`>`|Symbol for dropdowns  &lt;a>.|
 
 
 
